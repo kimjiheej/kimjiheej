@@ -37,5 +37,11 @@
 | UMC 개발 연합 동아리 | 파일.일정 관리 서비스 개발          | 벡엔드 팀장         | 2023.03 ~ 2023.08 |   [티밍 깃허브](https://github.com/UmcTeaming/BackEnd)                            |
 | 한이음                                | 실시간 주점 예약 서비스 개발 | 벡엔드 팀장         | 2023.04 ~ 2023.11 | [어디가게 깃허브](https://github.com/hanium-where2go/where2go-backend)                              |
 | 플리더스- 스타트업 (인턴)              | 게임테스트 리워드 서비스             | 벡엔드 담당         | 2024.03 ~   NOW       | [플리더스 홈페이지](https://www.plithus.kr/) |
+
+
+
+#### 자격증 
+
+정보처리기사. SQLD 
   
 </div>

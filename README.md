@@ -43,5 +43,12 @@
 #### 자격증 
 
 정보처리기사. SQLD 
+
+#### 블로그
+ <a href="https://velog.io/@glp0509/posts"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@zaman17"/></a>
+
   
 </div>
+
+
+

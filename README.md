@@ -48,6 +48,8 @@
 #### 블로그
  <a href="https://velog.io/@glp0509/posts"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@zaman17"/></a>
 
+### 포트폴리오 
+ <a href="https://stupendous-rake-1b3.notion.site/29d72a9034a048fabf4be9a2001b5f55?pvs=4"><img src="https://img.shields.io/badge/Notion-3776AB?style=for-the-badge&logo=Notion&logoColor=white">
   
 </div>
 

@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api??text=kimjiheeGithub&type=Soft)
 
   
-####  :wave: 꾸준히 노력하는 벡엔드 Spring 개발자입니다.
+####  :wave: 꾸준히 노력하는 개발자입니다.
 
   
  <br/>
